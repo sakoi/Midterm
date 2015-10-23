@@ -1,0 +1,13 @@
+html {
+    overflow-y:scroll;
+    }
+/* keep scroll bar on ^ */
+
+footer {
+     padding-top: 3em;   
+    }
+
+.center {
+text-align: center;
+    }
+
